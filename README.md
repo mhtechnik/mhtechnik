@@ -10,10 +10,10 @@ Heute liegt mein Fokus darauf, **künstliche Intelligenz, Automatisierung und da
 ---
 
 ### 🚀 Was ich mache
-- **AI Engineering & Automatisierung** – Aufbau modularer KI-Workflows, Assistenten und Analyseprozesse (GPT, lokale LLMs, Vektordatenbanken)  
-- **NoCode / LowCode Entwicklung** – Automatisierungen und Integrationen mit **n8n**, individuellen Nodes und sicheren API-Verbindungen  
-- **Infrastruktur & Datensicherheit** – Betrieb eigener **Serverumgebungen auf Docker/Portainer-Basis**, konform mit **deutschen Datenschutz- und Sicherheitsstandards**  
-- **Digitale Transformation** – Entwicklung von **KI-Strategien und Umsetzungsmodellen** für kleine Unternehmen, Landwirtschaft und nachhaltige Projekte  
+- **AI Engineering & Automatisierung**  Aufbau modularer KI-Workflows, Assistenten und Analyseprozesse (GPT, lokale LLMs, Vektordatenbanken)  
+- **NoCode / LowCode Entwicklung** Automatisierungen und Integrationen mit **n8n**, individuellen Nodes und sicheren API-Verbindungen  
+- **Infrastruktur & Datensicherheit**  Betrieb eigener **Serverumgebungen auf Docker/Portainer-Basis**, konform mit **deutschen Datenschutz- und Sicherheitsstandards**  
+- **Digitale Transformation**  Entwicklung von **KI-Strategien und Umsetzungsmodellen** für mittelständige Unternehmen, Landwirtschaft und nachhaltige Projekte  
 
 ---
 
